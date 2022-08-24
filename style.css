@@ -1,0 +1,10 @@
+div{
+    float: left;
+    width: 700px;
+    height: 500px;
+    margin: 10px;
+    background: linear-gradient(red 14%, orange 14%, orange 28%, yellow 28%, yellow 42%, green 42%, green 56%, lightblue 56%, lightblue 70%, blue 70%, blue 85%, purple 85%);
+}
+p{
+    margin-left: 100px;
+}
